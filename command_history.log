@@ -1,0 +1,244 @@
+2024-09-02 15:10:06.318 +0300 cheshev-nikita-igorevich: Сгенерирован новый UUID: Y4yNMvF3cchJ07Vlh2pwIAMjiozJ7IW06JTmmVxLyEDgbzPEWAKZaezM43GJnuat5D1dMY+r7ndu8C3G4i/uYcXVLsIhHDF/5FeaPP/r2yWSMDxba46Dd/nlW9e3TARYAfHSiHHJOHPqowbrDGw3mS2Ya16NhP7JA/vnPDUQJdPwM9tLTWGlHuFEs88uEt/6XPKidep0ECmJyjI7p2uCpAdETWi9ae0hkQd0v7+Yl13IkvvnRaRVvGVnQcyaAcasXzxQYuNakGI6lTC9b9dU2gLjVwNIvm7dYLb60dmiOhVPC3KeZn9cJfvhXRggNvTmGsoB40u+JdTLzp0MMGUxxw==
+2024-09-02 15:10:06.319 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-02 15:10:31.315 +0300 cheshev-nikita-igorevich: UUID использован из /var/log/last_uuid.txt: Y4yNMvF3cchJ07Vlh2pwIAMjiozJ7IW06JTmmVxLyEDgbzPEWAKZaezM43GJnuat5D1dMY+r7ndu8C3G4i/uYcXVLsIhHDF/5FeaPP/r2yWSMDxba46Dd/nlW9e3TARYAfHSiHHJOHPqowbrDGw3mS2Ya16NhP7JA/vnPDUQJdPwM9tLTWGlHuFEs88uEt/6XPKidep0ECmJyjI7p2uCpAdETWi9ae0hkQd0v7+Yl13IkvvnRaRVvGVnQcyaAcasXzxQYuNakGI6lTC9b9dU2gLjVwNIvm7dYLb60dmiOhVPC3KeZn9cJfvhXRggNvTmGsoB40u+JdTLzp0MMGUxxw==
+2024-09-02 15:10:31.316 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-02 15:10:55.747 +0300 cheshev-nikita-igorevich : cat /var/log/command_history.log
+2024-09-02 15:15:30.682 +0300 cheshev-nikita-igorevich : whoami
+2024-09-02 15:15:38.815 +0300 cheshev-nikita-igorevich : cd/
+2024-09-02 15:15:43.938 +0300 cheshev-nikita-igorevich : cd /
+2024-09-02 15:15:58.130 +0300 cheshev-nikita-igorevich : ls
+2024-09-02 15:16:06.277 +0300 cheshev-nikita-igorevich : cd ~
+2024-09-02 15:16:13.481 +0300 cheshev-nikita-igorevich : type ls
+2024-09-02 15:16:22.656 +0300 cheshev-nikita-igorevich : type cd
+2024-09-02 15:17:00.490 +0300 cheshev-nikita-igorevich : cd ..
+2024-09-02 15:17:02.517 +0300 cheshev-nikita-igorevich : ls
+2024-09-02 15:17:22.844 +0300 cheshev-nikita-igorevich : ls /home
+2024-09-02 15:17:30.963 +0300 cheshev-nikita-igorevich : cd ~
+2024-09-02 15:17:39.079 +0300 cheshev-nikita-igorevich : ccd /tmp
+2024-09-02 15:17:47.228 +0300 cheshev-nikita-igorevich : cd /tmp
+2024-09-02 15:17:58.424 +0300 cheshev-nikita-igorevich : mkdir pt
+2024-09-02 15:18:04.533 +0300 cheshev-nikita-igorevich : cd pt
+2024-09-02 15:18:33.108 +0300 cheshev-nikita-igorevich : touch 1.txt 2.txt 3.txt
+2024-09-02 15:18:34.133 +0300 cheshev-nikita-igorevich : ls
+2024-09-02 15:18:56.660 +0300 cheshev-nikita-igorevich : nano 1.txt
+2024-09-02 15:19:02.805 +0300 cheshev-nikita-igorevich : vim 2.txt
+2024-09-02 15:19:21.127 +0300 cheshev-nikita-igorevich : sudo apt install vim
+2024-09-02 15:20:17.302 +0300 cheshev-nikita-igorevich : vim 2.txt
+2024-09-02 15:20:55.035 +0300 cheshev-nikita-igorevich : cd ..
+2024-09-02 15:21:01.130 +0300 cheshev-nikita-igorevich : cd ~
+2024-09-02 15:21:28.681 +0300 cheshev-nikita-igorevich : cp -r /tmp/pt /tmp/pt_backup
+2024-09-02 15:21:46.029 +0300 cheshev-nikita-igorevich : cd /tmp
+2024-09-02 15:21:48.061 +0300 cheshev-nikita-igorevich : ls
+2024-09-02 15:22:05.458 +0300 cheshev-nikita-igorevich : cd ~
+2024-09-02 15:22:55.483 +0300 cheshev-nikita-igorevich : tar -cvf pt_backup.tar /tmp/pt_backup
+2024-09-02 15:24:31.562 +0300 cheshev-nikita-igorevich : tar -cvf pt_backup.tar /tmp/pt_backup/
+2024-09-02 15:25:37.668 +0300 cheshev-nikita-igorevich : tar -cvf pt_backup.tar -C /tmp pt_backup
+2024-09-02 15:26:04.243 +0300 cheshev-nikita-igorevich : tar -xvf pt_backup.tar -C /tmp 
+2024-09-02 15:28:27.153 +0300 cheshev-nikita-igorevich : ls ~ /usr
+2024-09-02 15:28:37.358 +0300 cheshev-nikita-igorevich : ls -r
+2024-09-02 15:28:50.563 +0300 cheshev-nikita-igorevich : ls -ld
+2024-09-02 15:28:56.684 +0300 cheshev-nikita-igorevich : ls -ld .
+2024-09-02 15:29:22.056 +0300 cheshev-nikita-igorevich : cd /tmp
+2024-09-02 15:29:37.375 +0300 cheshev-nikita-igorevich : cd pt
+2024-09-02 15:29:54.778 +0300 cheshev-nikita-igorevich : ls -l 1.txt 2.txt 3.txt
+2024-09-02 15:30:54.971 +0300 cheshev-nikita-igorevich : mv /tmp/pt/1.txt /tmp/1_renamed.txt
+2024-09-02 15:31:09.353 +0300 cheshev-nikita-igorevich : cd ..
+2024-09-02 15:31:10.382 +0300 cheshev-nikita-igorevich : ls
+2024-09-02 15:32:07.653 +0300 cheshev-nikita-igorevich : mkdir /tmp/new_dir
+2024-09-02 15:32:13.739 +0300 cheshev-nikita-igorevich : cd /tmp/new_dir
+2024-09-02 15:32:42.143 +0300 cheshev-nikita-igorevich : touch new_file.txt
+2024-09-02 15:32:44.173 +0300 cheshev-nikita-igorevich : ls
+2024-09-02 15:33:10.729 +0300 cheshev-nikita-igorevich : mv -i /tmp/1_renamed.txt /tmp/new_dir/new_file.txt
+2024-09-02 15:33:53.634 +0300 cheshev-nikita-igorevich : cd ~
+2024-09-02 15:34:01.751 +0300 cheshev-nikita-igorevich : which ls
+2024-09-02 15:34:06.848 +0300 cheshev-nikita-igorevich : type cd
+2024-09-02 15:34:40.551 +0300 cheshev-nikita-igorevich : man ls
+2024-09-02 15:34:49.749 +0300 cheshev-nikita-igorevich : man nano
+2024-09-02 15:34:56.882 +0300 cheshev-nikita-igorevich : man rm
+2024-09-02 15:35:06.035 +0300 cheshev-nikita-igorevich : ls --help
+2024-09-02 15:35:12.156 +0300 cheshev-nikita-igorevich : nano --help
+2024-09-02 15:35:17.327 +0300 cheshev-nikita-igorevich : rm --help
+2024-09-02 15:36:04.237 +0300 cheshev-nikita-igorevich : ln -s /tmp/new_dir/new_file.txt /tmp/new_dir/symlink_to_file.txt
+2024-09-02 15:36:22.522 +0300 cheshev-nikita-igorevich : ls -l /tmp/new_dir/broken_symlink
+2024-09-02 15:36:35.741 +0300 cheshev-nikita-igorevich : cd /tmp
+2024-09-02 15:36:38.788 +0300 cheshev-nikita-igorevich : ls
+2024-09-02 15:36:49.946 +0300 cheshev-nikita-igorevich : cd  new_dir
+2024-09-02 15:36:56.033 +0300 cheshev-nikita-igorevich : ls
+2024-09-02 15:39:46.971 +0300 cheshev-nikita-igorevich : ls -l /dev/null broken_symlink
+2024-09-02 15:40:57.419 +0300 cheshev-nikita-igorevich : ln -s /dev/null broken_symlink
+2024-09-02 15:41:00.478 +0300 cheshev-nikita-igorevich : ls -l /dev/null broken_symlink
+2024-09-02 15:41:37.118 +0300 cheshev-nikita-igorevich : ln /tmp/new_dir/new_file.txt /tmp/new_dir/hardlink_to_file.txt
+2024-09-02 15:41:48.351 +0300 cheshev-nikita-igorevich : cd ~
+2024-09-02 15:42:14.843 +0300 cheshev-nikita-igorevich : alias mycommand='cd /usr; ls; cd -'
+2024-09-02 15:43:35.436 +0300 cheshev-nikita-igorevich : sudo mycommand
+2024-09-02 15:43:50.675 +0300 cheshev-nikita-igorevich : mycommand
+2024-09-02 15:44:59.866 +0300 cheshev-nikita-igorevich : cat > /tmp/textfile.txt << EOdsfsdfsfF
+2024-09-02 15:45:22.357 +0300 cheshev-nikita-igorevich : cat > /tmp/textfile.txt << EOF
+2024-09-02 15:45:22.361 +0300 cheshev-nikita-igorevich : asdadadsassdsad
+2024-09-02 15:45:22.365 +0300 cheshev-nikita-igorevich : dadsad
+2024-09-02 15:45:22.370 +0300 cheshev-nikita-igorevich : EOF
+2024-09-02 15:45:22.374 +0300 cheshev-nikita-igorevich : 
+2024-09-02 15:45:33.643 +0300 cheshev-nikita-igorevich : cat  /tmp/textfile.txt 
+2024-09-02 15:47:02.382 +0300 cheshev-nikita-igorevich : nano myscript.sh
+2024-09-02 15:47:22.858 +0300 cheshev-nikita-igorevich : chmod +x myscript.sh
+2024-09-02 15:47:37.092 +0300 cheshev-nikita-igorevich : ./myscript.sh
+2024-09-02 15:48:25.036 +0300 cheshev-nikita-igorevich : rm /tmp/textfile.txt
+2024-09-02 15:48:32.177 +0300 cheshev-nikita-igorevich : ls /tmp
+2024-09-02 15:49:00.846 +0300 cheshev-nikita-igorevich : mkdir /tmp/empty_dir
+2024-09-02 15:49:08.979 +0300 cheshev-nikita-igorevich : ls /tmp
+2024-09-02 15:49:16.145 +0300 cheshev-nikita-igorevich : rmdir /tmp/empty_dir
+2024-09-02 15:49:22.357 +0300 cheshev-nikita-igorevich : ls /tmp
+2024-09-02 15:49:49.878 +0300 cheshev-nikita-igorevich : rm -r /tmp/pt
+2024-09-02 15:50:34.816 +0300 cheshev-nikita-igorevich : sudo adduser  newuser
+2024-09-02 15:50:59.323 +0300 cheshev-nikita-igorevich : sudo passwd  newuser
+2024-09-02 15:51:27.988 +0300 cheshev-nikita-igorevich : find /tmp -name '1.txt'
+2024-09-02 15:52:29.291 +0300 cheshev-nikita-igorevich : cat 1.txt
+2024-09-02 15:52:35.479 +0300 cheshev-nikita-igorevich : cd /etc
+2024-09-02 15:52:51.824 +0300 cheshev-nikita-igorevich : cd pt_backup
+2024-09-02 15:52:55.969 +0300 cheshev-nikita-igorevich : cd pt
+2024-09-02 15:52:59.024 +0300 cheshev-nikita-igorevich : ls
+2024-09-02 15:53:36.623 +0300 cheshev-nikita-igorevich : cd pt
+2024-09-02 15:53:44.738 +0300 cheshev-nikita-igorevich : cd pt_backup
+2024-09-02 15:53:52.907 +0300 cheshev-nikita-igorevich : cdnew_dir
+2024-09-02 15:53:59.026 +0300 cheshev-nikita-igorevich : cd new_dir
+2024-09-02 15:54:22.494 +0300 cheshev-nikita-igorevich : cd ..
+2024-09-02 15:54:25.546 +0300 cheshev-nikita-igorevich : cd tmp
+2024-09-02 15:54:27.578 +0300 cheshev-nikita-igorevich : cd pt
+2024-09-02 15:54:32.678 +0300 cheshev-nikita-igorevich : ls
+2024-09-02 15:54:46.962 +0300 cheshev-nikita-igorevich : cd pt_backup
+2024-09-02 15:54:47.994 +0300 cheshev-nikita-igorevich : ls
+2024-09-02 15:54:54.146 +0300 cheshev-nikita-igorevich : cat 1.txt
+2024-09-02 15:55:04.457 +0300 cheshev-nikita-igorevich : cd //
+2024-09-02 15:55:13.671 +0300 cheshev-nikita-igorevich : cd /tmp/pt_backup
+2024-09-02 15:55:17.733 +0300 cheshev-nikita-igorevich : cd ..
+2024-09-02 15:55:20.798 +0300 cheshev-nikita-igorevich : ls
+2024-09-02 15:56:06.849 +0300 cheshev-nikita-igorevich : grep' #slk[aclk' /tmp/pt_backup/1.txt
+2024-09-02 15:56:36.427 +0300 cheshev-nikita-igorevich : grep' #slk[ak' /tmp/pt_backup/1.txt
+2024-09-02 15:57:05.016 +0300 cheshev-nikita-igorevich : grep '#slk[ak' /tmp/pt_backup/1.txt
+2024-09-02 15:58:27.710 +0300 cheshev-nikita-igorevich : grep -F '#slk[aclk' /tmp/pt_backup/1.txt
+2024-09-02 15:58:55.165 +0300 cheshev-nikita-igorevich : cd ~
+2024-09-02 15:59:28.817 +0300 cheshev-nikita-igorevich : ping -c 1 google.com && echo "Ping успешен" || echo "Ping не удался"
+2024-09-07 16:45:34.641 +0300 cheshev-nikita-igorevich : sudo nano /var/log/command_history.log
+2024-09-07 16:46:13.481 +0300 cheshev-nikita-igorevich : nohup sudo ./compiled_script.sh.x &
+2024-09-07 16:46:25.762 +0300 cheshev-nikita-igorevich : sudo nano /var/log/command_history.log
+2024-09-07 16:46:27.106 +0300 cheshev-nikita-igorevich: UUID использован из /var/log/last_uuid.txt: Y4yNMvF3cchJ07Vlh2pwIAMjiozJ7IW06JTmmVxLyEDgbzPEWAKZaezM43GJnuat5D1dMY+r7ndu8C3G4i/uYcXVLsIhHDF/5FeaPP/r2yWSMDxba46Dd/nlW9e3TARYAfHSiHHJOHPqowbrDGw3mS2Ya16NhP7JA/vnPDUQJdPwM9tLTWGlHuFEs88uEt/6XPKidep0ECmJyjI7p2uCpAdETWi9ae0hkQd0v7+Yl13IkvvnRaRVvGVnQcyaAcasXzxQYuNakGI6lTC9b9dU2gLjVwNIvm7dYLb60dmiOhVPC3KeZn9cJfvhXRggNvTmGsoB40u+JdTLzp0MMGUxxw==
+2024-09-07 16:46:27.107 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-07 16:47:33.237 +0300 cheshev-nikita-igorevich : sudo apt install net-tools
+2024-09-07 16:47:45.508 +0300 cheshev-nikita-igorevich : sudo ifconfig
+2024-09-07 16:47:52.622 +0300 cheshev-nikita-igorevich : ifconfig -a
+2024-09-07 16:50:46.471 +0300 cheshev-nikita-igorevich : sudo ifconfig ens37 192.168.56.5 netmask 255.255.255.0 
+2024-09-07 16:52:09.419 +0300 cheshev-nikita-igorevich : sudo ifconfig ens37 192.168.71.131 netmask 255.255.255.0 
+2024-09-07 16:52:14.482 +0300 cheshev-nikita-igorevich : sudo ifconfig ens37 192.168.71.131 netmask 24
+2024-09-07 16:52:36.815 +0300 cheshev-nikita-igorevich : sudo ifconfig ens37 192.168.71.131 netmask 24 
+2024-09-07 16:53:28.874 +0300 cheshev-nikita-igorevich : sudo ifconfig ens37 192.168.71.131 netmask 255.255.255.0 
+2024-09-07 16:54:01.674 +0300 cheshev-nikita-igorevich : sudo ifconfig ens3 192.168.71.133 down
+2024-09-07 16:54:06.772 +0300 cheshev-nikita-igorevich : sudo ifconfig ens37 192.168.71.133 down
+2024-09-07 16:54:12.916 +0300 cheshev-nikita-igorevich : sudo ifconfig ens37 192.168.71.133 up
+2024-09-07 16:55:09.155 +0300 cheshev-nikita-igorevich : ping ya.ru
+2024-09-07 16:55:20.323 +0300 cheshev-nikita-igorevich : ping -c 4 ya.ru
+2024-09-07 16:55:57.901 +0300 cheshev-nikita-igorevich : sudo  apt  install traceroute
+2024-09-07 16:56:13.151 +0300 cheshev-nikita-igorevich : sudo traceroute -T ya.ru
+2024-09-07 16:56:39.619 +0300 cheshev-nikita-igorevich : sudo mtr -T ya.ru
+2024-09-07 16:56:56.958 +0300 cheshev-nikita-igorevich : sudo mtr -T -c 5 ya.ru
+2024-09-07 16:57:08.168 +0300 cheshev-nikita-igorevich : route
+2024-09-07 17:00:16.991 +0300 cheshev-nikita-igorevich : sudo route add default gw 192.168.56.1
+2024-09-07 17:05:56.402 +0300 cheshev-nikita-igorevich : sudo route add default gw 192.168.71.1
+2024-09-07 17:06:00.467 +0300 cheshev-nikita-igorevich : route
+2024-09-07 17:08:01.881 +0300 cheshev-nikita-igorevich : sudo route add -net 192.168.500.0 gw 192.168.71.1 ens37
+2024-09-07 17:08:04.946 +0300 cheshev-nikita-igorevich : sudo route add -net 192.168.50.0 gw 192.168.71.1 ens37
+2024-09-07 17:08:16.184 +0300 cheshev-nikita-igorevich : sudo route add -net 192.168.50.1 gw 192.168.71.1 ens37
+2024-09-07 17:08:30.467 +0300 cheshev-nikita-igorevich : sudo route add -net 192.1680.1 gw 192.168.71.1 ens37
+2024-09-07 17:08:45.832 +0300 cheshev-nikita-igorevich : sudo route add -net 192.168.131.2 gw 192.168.71.1 ens37
+2024-09-07 17:09:09.342 +0300 cheshev-nikita-igorevich : sudo route add -net 192.168.71.2 gw 192.168.71.1 ens37
+2024-09-07 17:09:14.445 +0300 cheshev-nikita-igorevich : sudo route add -net 192.168.131.2 gw 192.168.71.1 ens37
+2024-09-07 17:09:28.692 +0300 cheshev-nikita-igorevich : route
+2024-09-07 17:09:43.013 +0300 cheshev-nikita-igorevich : ifconfig -a
+2024-09-07 17:09:58.326 +0300 cheshev-nikita-igorevich : sudo route add -net 192.168.71.141 gw 192.168.71.1 ens37
+2024-09-07 17:12:21.386 +0300 cheshev-nikita-igorevich : sudo route add -net 192.168.71.129 gw 192.168.71.1 ens37
+2024-09-07 17:12:26.480 +0300 cheshev-nikita-igorevich : sudo route add -net 192.168.71.319 gw 192.168.71.1 ens37
+2024-09-07 17:12:33.595 +0300 cheshev-nikita-igorevich : sudo route add -net 192.168.711319 gw 192.168.71.1 ens37
+2024-09-07 17:12:41.714 +0300 cheshev-nikita-igorevich : sudo route add -net 192.168.71.141 gw 192.168.71.1 ens37
+2024-09-07 17:12:49.849 +0300 cheshev-nikita-igorevich : sudo route add -net 192.168.71.131 gw 192.168.71.1 ens37
+2024-09-07 17:13:38.610 +0300 cheshev-nikita-igorevich : sudo route del -net 192.168.71.131
+2024-09-07 17:13:48.759 +0300 cheshev-nikita-igorevich : route add -host 10.10.2.20 reject
+2024-09-07 17:13:55.880 +0300 cheshev-nikita-igorevich : route add -net 192.168.127.0 netmask 255.255.255.0 reject
+2024-09-07 17:14:17.198 +0300 cheshev-nikita-igorevich : sudo nmcli dev status
+2024-09-07 17:14:39.527 +0300 cheshev-nikita-igorevich : sudo nmcli con show
+2024-09-07 17:14:50.684 +0300 cheshev-nikita-igorevich : sudo nmcli con show -a
+2024-09-07 17:15:01.864 +0300 cheshev-nikita-igorevich : lspci | grep Eth
+2024-09-07 17:15:06.947 +0300 cheshev-nikita-igorevich : apt install ethtool
+2024-09-07 17:15:16.121 +0300 cheshev-nikita-igorevich : sudo apt install ethtool
+2024-09-07 17:15:22.208 +0300 cheshev-nikita-igorevich : ethtool ens33
+2024-09-07 17:15:27.277 +0300 cheshev-nikita-igorevich : ethtool -s ens33 speed 100 duplex full
+2024-09-07 17:15:37.467 +0300 cheshev-nikita-igorevich : sudo ethtool -s ens33 speed 100 duplex full
+2024-09-07 17:15:47.621 +0300 cheshev-nikita-igorevich : ethtool ens33
+2024-09-07 17:15:56.770 +0300 cheshev-nikita-igorevich : sudo netstat -tnlp
+2024-09-07 17:16:13.163 +0300 cheshev-nikita-igorevich : sudo netstat -r
+2024-09-07 17:16:22.339 +0300 cheshev-nikita-igorevich : ss -ta
+2024-09-07 17:16:29.457 +0300 cheshev-nikita-igorevich : ss -to
+2024-09-07 17:17:04.321 +0300 cheshev-nikita-igorevich : nc -zv 192.168.127.167 21 22 80 443 3000
+2024-09-07 17:17:43.949 +0300 cheshev-nikita-igorevich : nc -zv 192.168.71.167 21 22 80 443 3000
+2024-09-07 17:19:02.628 +0300 cheshev-nikita-igorevich : nc -zv 192.168.71.167 20-90
+2024-09-07 17:19:12.775 +0300 cheshev-nikita-igorevich : nc -p 3000 -w 10 192.168717.167 22
+2024-09-07 17:19:25.965 +0300 cheshev-nikita-igorevich : nc -p 3000 -w 10 192.16.77..167 22
+2024-09-07 17:19:39.204 +0300 cheshev-nikita-igorevich : nc -p 3000 -w 10 192.168.77.167 22
+2024-09-07 17:19:45.311 +0300 cheshev-nikita-igorevich : nc -p 3000 -w 10 192.168.71.167 22
+2024-09-07 17:20:12.866 +0300 cheshev-nikita-igorevich : nc -nlv 8080
+2024-09-07 17:20:26.275 +0300 cheshev-nikita-igorevich : ifconfig -a
+2024-09-07 17:21:09.168 +0300 cheshev-nikita-igorevich : ns -4 192.168.71.141 ens 37
+2024-09-07 17:21:21.390 +0300 cheshev-nikita-igorevich : sudo ns -4 192.168.71.141 ens37
+2024-09-07 17:21:44.916 +0300 cheshev-nikita-igorevich : sudo apt install ns2
+2024-09-07 17:22:05.415 +0300 cheshev-nikita-igorevich : reboot
+2024-09-07 17:29:47.103 +0300 cheshev-nikita-igorevich: UUID использован из /var/log/last_uuid.txt: Y4yNMvF3cchJ07Vlh2pwIAMjiozJ7IW06JTmmVxLyEDgbzPEWAKZaezM43GJnuat5D1dMY+r7ndu8C3G4i/uYcXVLsIhHDF/5FeaPP/r2yWSMDxba46Dd/nlW9e3TARYAfHSiHHJOHPqowbrDGw3mS2Ya16NhP7JA/vnPDUQJdPwM9tLTWGlHuFEs88uEt/6XPKidep0ECmJyjI7p2uCpAdETWi9ae0hkQd0v7+Yl13IkvvnRaRVvGVnQcyaAcasXzxQYuNakGI6lTC9b9dU2gLjVwNIvm7dYLb60dmiOhVPC3KeZn9cJfvhXRggNvTmGsoB40u+JdTLzp0MMGUxxw==
+2024-09-07 17:29:47.104 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-07 17:29:57.388 +0300 cheshev-nikita-igorevich : while sleep 1;do tput sc;tput cup 0 $(($(tput cols)-29));date;tput rc;done &
+2024-09-07 17:30:28.189 +0300 cheshev-nikita-igorevich : sudo ns -4 192.168.71.141 ens37
+2024-09-07 17:30:51.632 +0300 cheshev-nikita-igorevich : sudo nmap google.com
+2024-09-07 17:32:12.478 +0300 cheshev-nikita-igorevich : sudo apt install nmap
+2024-09-07 17:32:34.015 +0300 cheshev-nikita-igorevich : sudo nmap google.com
+2024-09-07 17:33:13.609 +0300 cheshev-nikita-igorevich : sudo nmap 8.8.8.8
+2024-09-07 17:33:28.958 +0300 cheshev-nikita-igorevich : ifconfig -a
+2024-09-07 17:33:47.377 +0300 cheshev-nikita-igorevich : sudo nmap 192.168.71.141
+2024-09-07 17:34:41.348 +0300 cheshev-nikita-igorevich : sudo nmap --traceroute 8.8.8.8
+2024-09-07 17:34:55.565 +0300 cheshev-nikita-igorevich : sudo nmap --traceroute -sn 8.8.8.8
+2024-09-07 17:35:06.761 +0300 cheshev-nikita-igorevich : sudo nmap --traceroute -sn -PE 8.8.8.8
+2024-09-07 17:35:29.079 +0300 cheshev-nikita-igorevich : sudo host ya.ru
+2024-09-07 17:35:42.297 +0300 cheshev-nikita-igorevich : sudo hostgoogle.com
+2024-09-07 17:35:45.341 +0300 cheshev-nikita-igorevich : sudo host google.com
+2024-09-07 17:35:54.477 +0300 cheshev-nikita-igorevich : dig ya.ru
+2024-09-07 17:36:06.661 +0300 cheshev-nikita-igorevich : dig google.com
+2024-09-07 17:36:46.313 +0300 cheshev-nikita-igorevich : dig google.com A x
+2024-09-07 17:37:02.546 +0300 cheshev-nikita-igorevich : nslookup ya.ru
+2024-09-07 17:37:15.726 +0300 cheshev-nikita-igorevich : nslookup ygoogle.com
+2024-09-07 17:37:39.087 +0300 cheshev-nikita-igorevich : nslookup google.com
+2024-09-07 17:38:22.875 +0300 cheshev-nikita-igorevich : nslookup google.com port
+2024-09-07 17:38:35.222 +0300 cheshev-nikita-igorevich : nslookuport p google.com 
+2024-09-07 17:38:39.333 +0300 cheshev-nikita-igorevich : nslookuport  google.com 
+2024-09-07 17:38:43.459 +0300 cheshev-nikita-igorevich : nslook uport  google.com 
+2024-09-07 17:38:48.569 +0300 cheshev-nikita-igorevich : nslooku port  google.com 
+2024-09-07 17:38:56.718 +0300 cheshev-nikita-igorevich : nslookpu port  google.com 
+2024-09-07 17:39:07.023 +0300 cheshev-nikita-igorevich : sudo nslookpu port  google.com 
+2024-09-07 17:39:33.646 +0300 cheshev-nikita-igorevich : sudo nslookup port  google.com 
+2024-09-07 17:40:58.269 +0300 cheshev-nikita-igorevich : sudo apt install tcpdump
+2024-09-07 17:41:29.071 +0300 cheshev-nikita-igorevich : sudo  tcpdump-i  
+2024-09-07 17:41:51.648 +0300 cheshev-nikita-igorevich : sudo  tcpdump -i ens33 
+2024-09-07 17:42:06.021 +0300 cheshev-nikita-igorevich : sudo  tcpdump-c 5  -i ens33 
+2024-09-07 17:42:28.508 +0300 cheshev-nikita-igorevich : sudo  tcpdump -c 5  -i ens33 
+2024-09-07 17:43:01.351 +0300 cheshev-nikita-igorevich : tcpdump -ww tcp.txt -i ens33
+2024-09-07 17:43:24.914 +0300 cheshev-nikita-igorevich : tcpdump -w tcp.txt -i ens33
+2024-09-07 17:45:08.315 +0300 cheshev-nikita-igorevich : sudo tcpdump -w tcp.txt -i ens33
+2024-09-07 17:45:17.499 +0300 cheshev-nikita-igorevich : sudo apt-get install Wireshark
+2024-09-07 17:46:40.239 +0300 cheshev-nikita-igorevich : sudo apt-get install wireshark
+2024-09-07 17:47:03.743 +0300 cheshev-nikita-igorevich : sudo apt-get install bmon
+2024-09-07 17:47:17.112 +0300 cheshev-nikita-igorevich : bmon
+2024-09-07 17:48:20.347 +0300 cheshev-nikita-igorevich : sudo iptables -L
+2024-09-07 17:48:39.811 +0300 cheshev-nikita-igorevich : sudo iptables -A INPUT -s 192.168.0.10 -j DROP
+2024-09-07 17:48:46.959 +0300 cheshev-nikita-igorevich : sudo iptables -L
+2024-09-07 17:48:56.158 +0300 cheshev-nikita-igorevich : sudo iptables -D INPUT 1
+2024-09-07 17:49:01.325 +0300 cheshev-nikita-igorevich : sudo iptables -L
+2024-09-07 17:49:06.411 +0300 cheshev-nikita-igorevich : sudo iptables -P INPUT DROP
+2024-09-07 17:49:11.508 +0300 cheshev-nikita-igorevich : sudo iptables -L
+2024-09-07 17:49:58.524 +0300 cheshev-nikita-igorevich : sudo nano /var/log/command_history.log
+2024-09-07 17:50:47.289 +0300 cheshev-nikita-igorevich : sudo apt install git
+2024-09-07 17:50:50.335 +0300 cheshev-nikita-igorevich : rebooy
+2024-09-07 17:50:52.362 +0300 cheshev-nikita-igorevich : reboot
